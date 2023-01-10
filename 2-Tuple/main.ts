@@ -6,7 +6,7 @@ interface Person {
                               // first elemnt will be string and second elent will be number
 }
 
-const person: Person = {
+let person: Person = {
   name: 'John Smith',
   age: 30,
   location: 'New York',
